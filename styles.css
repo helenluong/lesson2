@@ -1,0 +1,25 @@
+/* selector */
+h1 {
+    background-color: chocolate;
+    margin: 100px;
+    padding: 20px;
+
+}
+
+h1#test {
+    /* text-shadow: aqua; */
+    background-color: grey;
+    /* color: darkgoldenrod; */
+    
+
+
+}
+
+a {
+    text-decoration: line-through;
+
+}
+
+a.test {
+    text-align: justify;
+}
